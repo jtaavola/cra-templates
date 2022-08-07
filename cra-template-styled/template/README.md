@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [cra-template-styled](https://github.com/jtaavola/cra-templates/tree/main/cra-template-styled).
 
 ## Available Scripts
 
