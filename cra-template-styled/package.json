@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-styled",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "styled-components"
+  ],
+  "description": "A Create React App template with styled-components.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jtaavola/cra-templates.git",
+    "directory": "cra-template-styled"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
