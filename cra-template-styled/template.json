@@ -7,8 +7,14 @@
       "web-vitals": "^2.1.0",
       "styled-components": "^5.3.5"
     },
+    "scripts": {
+      "deploy": "npm run build && gh-pages -d build"
+    },
     "eslintConfig": {
       "extends": ["react-app", "react-app/jest"]
+    },
+    "devDependencies": {
+      "gh-pages": "^4.0.0"
     }
   }
 }
