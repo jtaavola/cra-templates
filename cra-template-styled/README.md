@@ -4,6 +4,7 @@ This template extends the base [Create React App](https://github.com/facebook/cr
 
 - [styled-components](https://styled-components.com) dependency and usage
 - vscode configuration - recommended extensions and auto formatting
+- GitHub pages support - [`gh-pages`](https://github.com/tschaub/gh-pages)
 
 ## Usage
 
