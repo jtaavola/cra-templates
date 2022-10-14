@@ -8,6 +8,8 @@ const AppContainer = styled.div`
 const AppHeader = styled.header`
   background-color: #282c34;
   min-height: 100vh;
+  // use small viewport height if browser supported
+  min-height: 100svh;
   display: flex;
   flex-direction: column;
   align-items: center;
